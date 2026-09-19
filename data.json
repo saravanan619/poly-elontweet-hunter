@@ -1,48 +1,23 @@
 {
-  "last_updated": "2026-09-19 00:48:24 UTC",
+  "last_updated": "2026-09-19 05:18:47 UTC",
   "targets": {
-    "Starship": {
-      "status": "HIT",
-      "count": 1,
-      "matching_tweets": [
-        {
-          "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-09-19T00:48:24.486291+00:00"
-        }
-      ]
-    },
     "Tesla": {
       "status": "HIT",
       "count": 1,
       "matching_tweets": [
         {
           "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-09-19T00:48:24.486291+00:00"
+          "created_at": "2026-09-19T05:18:47.244352+00:00"
         }
       ]
     },
-    "Optimus": {
+    "Starship": {
       "status": "HIT",
       "count": 1,
       "matching_tweets": [
         {
           "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-09-19T00:48:24.486291+00:00"
-        }
-      ]
-    },
-    "Mars": {
-      "status": "MISS",
-      "count": 0,
-      "matching_tweets": []
-    },
-    "DOGE": {
-      "status": "HIT",
-      "count": 1,
-      "matching_tweets": [
-        {
-          "text": "Department of Government Efficiency (DOGE) will be legendary.",
-          "created_at": "2026-09-19T00:48:24.486310+00:00"
+          "created_at": "2026-09-19T05:18:47.244352+00:00"
         }
       ]
     },
@@ -50,6 +25,31 @@
       "status": "MISS",
       "count": 0,
       "matching_tweets": []
+    },
+    "Mars": {
+      "status": "MISS",
+      "count": 0,
+      "matching_tweets": []
+    },
+    "Optimus": {
+      "status": "HIT",
+      "count": 1,
+      "matching_tweets": [
+        {
+          "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
+          "created_at": "2026-09-19T05:18:47.244352+00:00"
+        }
+      ]
+    },
+    "DOGE": {
+      "status": "HIT",
+      "count": 1,
+      "matching_tweets": [
+        {
+          "text": "Department of Government Efficiency (DOGE) will be legendary.",
+          "created_at": "2026-09-19T05:18:47.244368+00:00"
+        }
+      ]
     }
   }
 }
