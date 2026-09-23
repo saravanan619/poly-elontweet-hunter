@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23 18:04:14 UTC",
+  "last_updated": "2026-09-23 21:53:54 UTC",
   "targets": {
     "Optimus": {
       "status": "HIT",
@@ -7,37 +7,7 @@
       "matching_tweets": [
         {
           "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-09-23T18:04:14.973947+00:00"
-        }
-      ]
-    },
-    "Tesla": {
-      "status": "HIT",
-      "count": 1,
-      "matching_tweets": [
-        {
-          "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-09-23T18:04:14.973947+00:00"
-        }
-      ]
-    },
-    "Grok": {
-      "status": "MISS",
-      "count": 0,
-      "matching_tweets": []
-    },
-    "Mars": {
-      "status": "MISS",
-      "count": 0,
-      "matching_tweets": []
-    },
-    "DOGE": {
-      "status": "HIT",
-      "count": 1,
-      "matching_tweets": [
-        {
-          "text": "Department of Government Efficiency (DOGE) will be legendary.",
-          "created_at": "2026-09-23T18:04:14.973972+00:00"
+          "created_at": "2026-09-23T21:53:54.169874+00:00"
         }
       ]
     },
@@ -47,9 +17,39 @@
       "matching_tweets": [
         {
           "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-09-23T18:04:14.973947+00:00"
+          "created_at": "2026-09-23T21:53:54.169874+00:00"
         }
       ]
+    },
+    "DOGE": {
+      "status": "HIT",
+      "count": 1,
+      "matching_tweets": [
+        {
+          "text": "Department of Government Efficiency (DOGE) will be legendary.",
+          "created_at": "2026-09-23T21:53:54.169900+00:00"
+        }
+      ]
+    },
+    "Mars": {
+      "status": "MISS",
+      "count": 0,
+      "matching_tweets": []
+    },
+    "Tesla": {
+      "status": "HIT",
+      "count": 1,
+      "matching_tweets": [
+        {
+          "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
+          "created_at": "2026-09-23T21:53:54.169874+00:00"
+        }
+      ]
+    },
+    "Grok": {
+      "status": "MISS",
+      "count": 0,
+      "matching_tweets": []
     }
   }
 }
