@@ -1,38 +1,13 @@
 {
-  "last_updated": "2026-10-17 11:52:00 UTC",
+  "last_updated": "2026-10-17 14:41:04 UTC",
   "targets": {
-    "DOGE": {
-      "status": "HIT",
-      "count": 1,
-      "matching_tweets": [
-        {
-          "text": "Department of Government Efficiency (DOGE) will be legendary.",
-          "created_at": "2026-10-17T11:52:00.228585+00:00"
-        }
-      ]
-    },
-    "Starship": {
-      "status": "HIT",
-      "count": 1,
-      "matching_tweets": [
-        {
-          "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-10-17T11:52:00.228567+00:00"
-        }
-      ]
-    },
-    "Grok": {
-      "status": "MISS",
-      "count": 0,
-      "matching_tweets": []
-    },
     "Optimus": {
       "status": "HIT",
       "count": 1,
       "matching_tweets": [
         {
           "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-10-17T11:52:00.228567+00:00"
+          "created_at": "2026-10-17T14:41:04.647637+00:00"
         }
       ]
     },
@@ -42,14 +17,39 @@
       "matching_tweets": [
         {
           "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-10-17T11:52:00.228567+00:00"
+          "created_at": "2026-10-17T14:41:04.647637+00:00"
         }
       ]
+    },
+    "Starship": {
+      "status": "HIT",
+      "count": 1,
+      "matching_tweets": [
+        {
+          "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
+          "created_at": "2026-10-17T14:41:04.647637+00:00"
+        }
+      ]
+    },
+    "Grok": {
+      "status": "MISS",
+      "count": 0,
+      "matching_tweets": []
     },
     "Mars": {
       "status": "MISS",
       "count": 0,
       "matching_tweets": []
+    },
+    "DOGE": {
+      "status": "HIT",
+      "count": 1,
+      "matching_tweets": [
+        {
+          "text": "Department of Government Efficiency (DOGE) will be legendary.",
+          "created_at": "2026-10-17T14:41:04.647654+00:00"
+        }
+      ]
     }
   }
 }
