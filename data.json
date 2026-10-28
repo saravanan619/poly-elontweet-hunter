@@ -1,13 +1,43 @@
 {
-  "last_updated": "2026-10-28 10:10:48 UTC",
+  "last_updated": "2026-10-28 16:53:59 UTC",
   "targets": {
+    "Mars": {
+      "status": "MISS",
+      "count": 0,
+      "matching_tweets": []
+    },
+    "DOGE": {
+      "status": "HIT",
+      "count": 1,
+      "matching_tweets": [
+        {
+          "text": "Department of Government Efficiency (DOGE) will be legendary.",
+          "created_at": "2026-10-28T16:53:59.500661+00:00"
+        }
+      ]
+    },
+    "Grok": {
+      "status": "MISS",
+      "count": 0,
+      "matching_tweets": []
+    },
     "Tesla": {
       "status": "HIT",
       "count": 1,
       "matching_tweets": [
         {
           "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-10-28T10:10:48.094771+00:00"
+          "created_at": "2026-10-28T16:53:59.500643+00:00"
+        }
+      ]
+    },
+    "Optimus": {
+      "status": "HIT",
+      "count": 1,
+      "matching_tweets": [
+        {
+          "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
+          "created_at": "2026-10-28T16:53:59.500643+00:00"
         }
       ]
     },
@@ -17,37 +47,7 @@
       "matching_tweets": [
         {
           "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-10-28T10:10:48.094771+00:00"
-        }
-      ]
-    },
-    "Mars": {
-      "status": "MISS",
-      "count": 0,
-      "matching_tweets": []
-    },
-    "Grok": {
-      "status": "MISS",
-      "count": 0,
-      "matching_tweets": []
-    },
-    "Optimus": {
-      "status": "HIT",
-      "count": 1,
-      "matching_tweets": [
-        {
-          "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-10-28T10:10:48.094771+00:00"
-        }
-      ]
-    },
-    "DOGE": {
-      "status": "HIT",
-      "count": 1,
-      "matching_tweets": [
-        {
-          "text": "Department of Government Efficiency (DOGE) will be legendary.",
-          "created_at": "2026-10-28T10:10:48.094791+00:00"
+          "created_at": "2026-10-28T16:53:59.500643+00:00"
         }
       ]
     }
