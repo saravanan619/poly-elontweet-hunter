@@ -1,22 +1,7 @@
 {
-  "last_updated": "2026-10-28 16:53:59 UTC",
+  "last_updated": "2026-10-28 21:26:42 UTC",
   "targets": {
     "Mars": {
-      "status": "MISS",
-      "count": 0,
-      "matching_tweets": []
-    },
-    "DOGE": {
-      "status": "HIT",
-      "count": 1,
-      "matching_tweets": [
-        {
-          "text": "Department of Government Efficiency (DOGE) will be legendary.",
-          "created_at": "2026-10-28T16:53:59.500661+00:00"
-        }
-      ]
-    },
-    "Grok": {
       "status": "MISS",
       "count": 0,
       "matching_tweets": []
@@ -27,17 +12,17 @@
       "matching_tweets": [
         {
           "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-10-28T16:53:59.500643+00:00"
+          "created_at": "2026-10-28T21:26:42.794012+00:00"
         }
       ]
     },
-    "Optimus": {
+    "DOGE": {
       "status": "HIT",
       "count": 1,
       "matching_tweets": [
         {
-          "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-10-28T16:53:59.500643+00:00"
+          "text": "Department of Government Efficiency (DOGE) will be legendary.",
+          "created_at": "2026-10-28T21:26:42.794033+00:00"
         }
       ]
     },
@@ -47,9 +32,24 @@
       "matching_tweets": [
         {
           "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
-          "created_at": "2026-10-28T16:53:59.500643+00:00"
+          "created_at": "2026-10-28T21:26:42.794012+00:00"
         }
       ]
+    },
+    "Optimus": {
+      "status": "HIT",
+      "count": 1,
+      "matching_tweets": [
+        {
+          "text": "Working on Tesla FSD, Optimus and Starship Flight 6 this week!",
+          "created_at": "2026-10-28T21:26:42.794012+00:00"
+        }
+      ]
+    },
+    "Grok": {
+      "status": "MISS",
+      "count": 0,
+      "matching_tweets": []
     }
   }
 }
